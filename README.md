@@ -27,7 +27,6 @@ alead = {
     "scholarship": "100% AMT Scholarship",
     "location":   "Takhmao, Kandal, Cambodia 🇰🇭",
     "looking_for": "Software / IT Internship",
-    "fun_fact":   "I competed in Ideathon Cambodia twice — and came back for more"
 }
 ```
 
