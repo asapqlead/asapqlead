@@ -70,10 +70,10 @@ alead = {
 >
 > `TypeScript`
 
-### 🌐 [W3Schools Clone](https://github.com/asapqlead/w3cschool_clone)
-> UI recreation project — precision CSS layout work
+### 🌐 [SyncType](https://github.com/asapqlead/SyncType)
+> A translation system turning Khmer phonetic words to the actual Khmer script
 >
-> `HTML` `CSS`
+>`Python` `Jupyter Notebook` `HTML` `CSS` `JavaScript`
 
 ---
 
