@@ -22,10 +22,7 @@
 ```python
 alead = {
     "university": "American University of Phnom Penh",
-    "degree":     "B.Sc. Software Development (Year 2)",
-    "scholarship": "100% AMT Scholarship",
-    "location":   "Takhmao, Kandal, Cambodia 🇰🇭",
-    "looking_for": "Software / IT Internship",
+    "degree":     "B.Sc. Software Development (Year 3)",
 }
 ```
 
