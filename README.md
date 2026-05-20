@@ -23,7 +23,6 @@
 alead = {
     "university": "American University of Phnom Penh",
     "degree":     "B.Sc. Software Development (Year 2)",
-    "gpa":        "3.73 / 4.0",
     "scholarship": "100% AMT Scholarship",
     "location":   "Takhmao, Kandal, Cambodia 🇰🇭",
     "looking_for": "Software / IT Internship",
