@@ -57,10 +57,10 @@ alead = {
 >
 > `Python` `Gemini AI` `File Upload` `REST API`
 
-### 🛒 [Basic E-Commerce Website](https://github.com/asapqlead/basic_ecommerce_web)
-> Fully responsive e-commerce platform with mobile-first design and reusable components
+### ✅ [Stanza — Daily Planner App](https://github.com/asapqlead/stanza)
+> A daily planner app organzing tasks in to a folder built with TypeScript
 >
-> `HTML` `CSS` `JavaScript` `Bootstrap`
+> `TypeScript`
 
 ### ⚡ [Zolo — Productivity Booster App](https://github.com/asapqlead/zolo)
 > A productivity tool built with TypeScript
@@ -71,6 +71,11 @@ alead = {
 > A translation system turning Khmer phonetic words to the actual Khmer script
 >
 >`Python` `Jupyter Notebook` `HTML` `CSS` `JavaScript`
+
+### 🏦 [Financify](https://github.com/asapqlead/SyncType)
+> A finance tracker platform allows user to track wallets, transactions, budgets, and savings goals with dashboard analytic
+>
+> `HTML` `CSS` `React JS`
 
 ---
 
