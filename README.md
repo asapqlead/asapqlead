@@ -72,10 +72,10 @@ alead = {
 >
 >`Python` `Jupyter Notebook` `HTML` `CSS` `JavaScript`
 
-### 🏦 [Financify](https://github.com/asapqlead/SyncType)
+### 🏦 [Financify](https://github.com/nXuuuu/Financify)
 > A finance tracker platform allows user to track wallets, transactions, budgets, and savings goals with dashboard analytic
 >
-> `HTML` `CSS` `React JS`
+> `HTML` `CSS` `React JS` `Vite` `Postgres`
 
 ---
 
